@@ -157,6 +157,7 @@ Gedeon Obae Gekonge - [Github](https://github.com/Gedeonobae)/[Twitter](https://
 Mildred Makori - [Github](https://github.com/kwamboka) / [Twitter](https://twitter.com/)
 
 Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection.
 Third Part of AirBnB: Mildred Makori  & Gedeon Obae Gekonge
